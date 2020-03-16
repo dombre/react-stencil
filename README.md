@@ -7,7 +7,7 @@ Steps to run it locally
 ```bash
 cd stencil-components
 npm install
-npm build
+npm run build
 cd ..
 npm install
 npm start
